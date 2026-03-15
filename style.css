@@ -150,3 +150,43 @@ color:white;
 margin-top:60px;
 
 }
+
+/* RF Section */
+
+.rf-section{
+
+padding:80px 60px;
+
+background:#f5f7fa;
+
+text-align:center;
+
+}
+
+.rf-container{
+
+display:flex;
+
+justify-content:center;
+
+gap:40px;
+
+margin-top:40px;
+
+flex-wrap:wrap;
+
+}
+
+.rf-box{
+
+background:white;
+
+width:250px;
+
+padding:25px;
+
+border-radius:10px;
+
+box-shadow:0 6px 20px rgba(0,0,0,0.08);
+
+}
