@@ -173,3 +173,37 @@ background:#111;
 color:white;
 
 }
+
+.nav-menu{
+display:flex;
+gap:30px;
+list-style:none;
+}
+
+.nav-menu li{
+position:relative;
+}
+
+.nav-menu a{
+text-decoration:none;
+color:white;
+}
+
+.dropdown-menu{
+display:none;
+position:absolute;
+top:25px;
+left:0;
+background:#12294a;
+list-style:none;
+padding:10px 0;
+min-width:200px;
+}
+
+.dropdown-menu li{
+padding:10px 20px;
+}
+
+.dropdown:hover .dropdown-menu{
+display:block;
+}
