@@ -146,6 +146,11 @@ padding:0 15px 20px 15px;
 
 }
 
+.card-link{
+text-decoration:none;
+color:inherit;
+display:block;
+}
 
 /* EXPERIMENTS */
 
@@ -164,6 +169,24 @@ margin-bottom:40px;
 
 }
 
+/* PROJECT PAGE */
+
+.project-page{
+
+max-width:900px;
+margin:auto;
+padding:60px 20px;
+
+}
+
+.result-image{
+
+width:100%;
+max-width:700px;
+display:block;
+margin:30px auto;
+
+}
 
 /* FOOTER */
 
